@@ -9,7 +9,6 @@ I'm looking for a job in SF, and I'm really excited by the potential of AI.
 - Agent harnesses
 - Technology law
 - Copyright
-- Legal technology
 - Early company building
 
 ## Links
