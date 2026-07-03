@@ -1,15 +1,12 @@
 # Aaron Zolla
 
-Hello, I'm Aaron. I'm a fourth-year at UC Berkeley studying History, and I briefly worked in a law firm.
-
-I'm looking for a job in SF, and I'm really excited by the potential of AI.
+Hi! I'm Aaron. I work at andera.ai
 
 ## Current Interests
 
 - Agent harnesses
-- Technology law
-- Copyright
-- Early company building
+- Climbing
+- Vibe coding
 
 ## Links
 
