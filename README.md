@@ -1,6 +1,6 @@
 # Aaron Zolla
 
-Hi! I'm Aaron. I work at andera.ai
+Hi! I'm Aaron. I am working on some personal projects and traveling.
 
 ## Current Interests
 
